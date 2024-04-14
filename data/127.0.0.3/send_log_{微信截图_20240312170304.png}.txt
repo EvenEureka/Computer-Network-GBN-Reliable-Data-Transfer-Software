@@ -1,0 +1,59 @@
+---------------------------------
+send file н╒пе╫ьм╪_20240312170304.png to ('127.0.0.2', 44444), 54 packets in total
+Sat Apr 13 17:24:06 2024, first send PDU=0 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=1 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=2 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=3 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=4 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=5 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=6 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=7 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=8 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=9 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=10 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=11 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=12 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=13 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:06 2024, first send PDU=14 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:07 2024, first send PDU=15 to ('127.0.0.2', 44444), ack received=1
+Sat Apr 13 17:24:07 2024, first send PDU=0 to ('127.0.0.2', 44444), ack received=2
+Sat Apr 13 17:24:07 2024, first send PDU=1 to ('127.0.0.2', 44444), ack received=3
+Sat Apr 13 17:24:07 2024, first send PDU=2 to ('127.0.0.2', 44444), ack received=4
+Sat Apr 13 17:24:07 2024, first send PDU=3 to ('127.0.0.2', 44444), ack received=5
+Sat Apr 13 17:24:07 2024, first send PDU=4 to ('127.0.0.2', 44444), ack received=6
+Sat Apr 13 17:24:07 2024, first send PDU=5 to ('127.0.0.2', 44444), ack received=7
+Sat Apr 13 17:24:07 2024, first send PDU=6 to ('127.0.0.2', 44444), ack received=8
+Sat Apr 13 17:24:07 2024, first send PDU=7 to ('127.0.0.2', 44444), ack received=9
+Sat Apr 13 17:24:07 2024, first send PDU=8 to ('127.0.0.2', 44444), ack received=10
+Sat Apr 13 17:24:07 2024, first send PDU=9 to ('127.0.0.2', 44444), ack received=11
+Sat Apr 13 17:24:07 2024, first send PDU=10 to ('127.0.0.2', 44444), ack received=12
+Sat Apr 13 17:24:07 2024, first send PDU=11 to ('127.0.0.2', 44444), ack received=13
+Sat Apr 13 17:24:07 2024, first send PDU=12 to ('127.0.0.2', 44444), ack received=15
+Sat Apr 13 17:24:07 2024, first send PDU=13 to ('127.0.0.2', 44444), ack received=15
+Sat Apr 13 17:24:07 2024, first send PDU=14 to ('127.0.0.2', 44444), ack received=0
+Sat Apr 13 17:24:07 2024, first send PDU=15 to ('127.0.0.2', 44444), ack received=1
+Sat Apr 13 17:24:07 2024, first send PDU=0 to ('127.0.0.2', 44444), ack received=2
+Sat Apr 13 17:24:07 2024, first send PDU=1 to ('127.0.0.2', 44444), ack received=3
+Sat Apr 13 17:24:07 2024, first send PDU=2 to ('127.0.0.2', 44444), ack received=4
+Sat Apr 13 17:24:07 2024, first send PDU=3 to ('127.0.0.2', 44444), ack received=5
+Sat Apr 13 17:24:07 2024, first send PDU=4 to ('127.0.0.2', 44444), ack received=6
+Sat Apr 13 17:24:07 2024, first send PDU=5 to ('127.0.0.2', 44444), ack received=7
+Sat Apr 13 17:24:07 2024, first send PDU=6 to ('127.0.0.2', 44444), ack received=8
+Sat Apr 13 17:24:07 2024, first send PDU=7 to ('127.0.0.2', 44444), ack received=9
+Sat Apr 13 17:24:07 2024, first send PDU=8 to ('127.0.0.2', 44444), ack received=10
+Sat Apr 13 17:24:07 2024, first send PDU=9 to ('127.0.0.2', 44444), ack received=11
+Sat Apr 13 17:24:07 2024, first send PDU=10 to ('127.0.0.2', 44444), ack received=12
+Sat Apr 13 17:24:07 2024, first send PDU=11 to ('127.0.0.2', 44444), ack received=13
+Sat Apr 13 17:24:07 2024, first send PDU=12 to ('127.0.0.2', 44444), ack received=14
+Sat Apr 13 17:24:07 2024, first send PDU=13 to ('127.0.0.2', 44444), ack received=15
+Sat Apr 13 17:24:07 2024, first send PDU=14 to ('127.0.0.2', 44444), ack received=2
+Sat Apr 13 17:24:07 2024, first send PDU=15 to ('127.0.0.2', 44444), ack received=2
+Sat Apr 13 17:24:07 2024, first send PDU=0 to ('127.0.0.2', 44444), ack received=2
+Sat Apr 13 17:24:07 2024, first send PDU=1 to ('127.0.0.2', 44444), ack received=3
+Sat Apr 13 17:24:07 2024, first send PDU=2 to ('127.0.0.2', 44444), ack received=4
+Sat Apr 13 17:24:07 2024, first send PDU=3 to ('127.0.0.2', 44444), ack received=5
+Sat Apr 13 17:24:07 2024, first send PDU=4 to ('127.0.0.2', 44444), ack received=6
+Sat Apr 13 17:24:07 2024, first send PDU=5 to ('127.0.0.2', 44444), ack received=7
+Transmission over! Time consumed: 0.7s
+---------------------------------
+
